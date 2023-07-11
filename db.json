@@ -5,42 +5,48 @@
       "url": "https://images.pexels.com/photos/12050940/pexels-photo-12050940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Les Paul",
       "price": "3000",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     },
     {
       "id": 2,
       "url": "https://images.pexels.com/photos/2646825/pexels-photo-2646825.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Telecaster",
       "price": "2500",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     },
     {
       "id": 3,
       "url": "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Electro Acoustic",
       "price": "2000",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     },
     {
       "id": 4,
       "url": "https://images.pexels.com/photos/3428498/pexels-photo-3428498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Acoustic",
       "price": "1500",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     },
     {
       "id": 5,
       "url": "https://images.pexels.com/photos/2772147/pexels-photo-2772147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Ukulele",
       "price": "1000",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     },
     {
       "id": 6,
       "url": "https://images.pexels.com/photos/2156327/pexels-photo-2156327.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Squire",
       "price": "2000",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "guitars"
     }
   ],
   "consoles": [
@@ -49,42 +55,48 @@
       "url": "https://images.pexels.com/photos/12719126/pexels-photo-12719126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Xbox One",
       "price": "800",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     },
     {
       "id": 2,
       "url": "https://images.pexels.com/photos/13189272/pexels-photo-13189272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Playstation 5",
       "price": "1000",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     },
     {
       "id": 3,
       "url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Nintendo Switch",
       "price": "600",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     },
     {
       "id": 4,
       "url": "https://images.pexels.com/photos/7578735/pexels-photo-7578735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Gameboy",
       "price": "400",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     },
     {
       "id": 5,
       "url": "https://images.pexels.com/photos/4219883/pexels-photo-4219883.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Playstation 1",
       "price": "200",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     },
     {
       "id": 6,
       "url": "https://images.pexels.com/photos/1279174/pexels-photo-1279174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Nintendo DS",
       "price": "300",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "consoles"
     }
   ],
   "others": [
@@ -93,42 +105,48 @@
       "url": "https://images.pexels.com/photos/1407354/pexels-photo-1407354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Shoes",
       "price": "30",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     },
     {
       "id": 2,
       "url": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Mario Bros Pack",
       "price": "200",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     },
     {
       "id": 3,
       "url": "https://images.pexels.com/photos/4656725/pexels-photo-4656725.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Optimus Prime",
       "price": "200",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     },
     {
       "id": 4,
       "url": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Bag",
       "price": "50",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     },
     {
       "id": 5,
       "url": "https://images.pexels.com/photos/906056/pexels-photo-906056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Necklace",
       "price": "100",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     },
     {
       "id": 6,
       "url": "https://images.pexels.com/photos/39362/the-ball-stadion-football-the-pitch-39362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "name": "Soccer Ball",
       "price": "50",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat."
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tincidunt ex. Mauris dignissim ultricies est, quis consectetur magna luctus in. Nullam aliquam, ipsum et tempus ultricies, libero metus sodales sem, eget porttitor sapien sapien ac dolor. In interdum dui et ligula lobortis, quis ultricies ex venenatis. In a consequat erat. Integer fermentum urna eu tortor euismod, elementum fermentum nunc hendrerit. Curabitur rutrum, turpis ut accumsan venenatis, dui quam sagittis risus, sit amet facilisis magna sem a eros. Cras mattis, erat et venenatis facilisis, augue magna rutrum nisi, at sollicitudin nisi massa non magna. Maecenas molestie vulputate volutpat.",
+      "category": "others"
     }
   ]
 }
